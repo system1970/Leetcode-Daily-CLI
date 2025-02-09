@@ -1,0 +1,7 @@
+.*un~
+*~
+__pycache__  
+*.egg-info
+.pypirc
+build
+dist
